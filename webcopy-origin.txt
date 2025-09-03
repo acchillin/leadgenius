@@ -1,0 +1,328 @@
+Uri: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: C:\Downloaded Web Sites\xleads.com\ajax\libs\webfont\1.6.26\webfont.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/6892bf9d8b3ace68689b28c2/6892d591f06df35e7cf91c83_Screenshot 2025-07-22 at 2.03.36 PM 1-p-1080.jpg
+File Name: C:\Downloaded Web Sites\xleads.com\6892bf9d8b3ace68689b28c2\6892d591f06df35e7cf91c83_Screenshot 2025-07-22 at 2.03.36 PM 1-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/6892bf9d8b3ace68689b28c2/6892d591f06df35e7cf91c83_Screenshot 2025-07-22 at 2.03.36 PM 1-p-500.jpg
+File Name: C:\Downloaded Web Sites\xleads.com\6892bf9d8b3ace68689b28c2\6892d591f06df35e7cf91c83_Screenshot 2025-07-22 at 2.03.36 PM 1-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/6892bf9d8b3ace68689b28c2/6892d591f06df35e7cf91c83_Screenshot 2025-07-22 at 2.03.36 PM 1-p-800.jpg
+File Name: C:\Downloaded Web Sites\xleads.com\6892bf9d8b3ace68689b28c2\6892d591f06df35e7cf91c83_Screenshot 2025-07-22 at 2.03.36 PM 1-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/6892bf9d8b3ace68689b28c2/6892d591f06df35e7cf91c83_Screenshot 2025-07-22 at 2.03.36 PM 1.jpg
+File Name: C:\Downloaded Web Sites\xleads.com\6892bf9d8b3ace68689b28c2\6892d591f06df35e7cf91c83_Screenshot 2025-07-22 at 2.03.36 PM 1.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/6892bf9d8b3ace68689b28c2/6892eb27a0c075864e6b35fc_Rectangle 34624998-p-500.png
+File Name: C:\Downloaded Web Sites\xleads.com\6892bf9d8b3ace68689b28c2\6892eb27a0c075864e6b35fc_Rectangle 34624998-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6892bf9d8b3ace68689b28c2/6892eb27a0c075864e6b35fc_Rectangle 34624998-p-800.png
+File Name: C:\Downloaded Web Sites\xleads.com\6892bf9d8b3ace68689b28c2\6892eb27a0c075864e6b35fc_Rectangle 34624998-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6892bf9d8b3ace68689b28c2/6892eb27a0c075864e6b35fc_Rectangle 34624998.png
+File Name: C:\Downloaded Web Sites\xleads.com\6892bf9d8b3ace68689b28c2\6892eb27a0c075864e6b35fc_Rectangle 34624998.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6892bf9d8b3ace68689b28c2/6892ee180a6b3b10ee007d9f_Rectangle 34624999-p-500.png
+File Name: C:\Downloaded Web Sites\xleads.com\6892bf9d8b3ace68689b28c2\6892ee180a6b3b10ee007d9f_Rectangle 34624999-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6892bf9d8b3ace68689b28c2/6892ee180a6b3b10ee007d9f_Rectangle 34624999-p-800.png
+File Name: C:\Downloaded Web Sites\xleads.com\6892bf9d8b3ace68689b28c2\6892ee180a6b3b10ee007d9f_Rectangle 34624999-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6892bf9d8b3ace68689b28c2/6892ee180a6b3b10ee007d9f_Rectangle 34624999.png
+File Name: C:\Downloaded Web Sites\xleads.com\6892bf9d8b3ace68689b28c2\6892ee180a6b3b10ee007d9f_Rectangle 34624999.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6892bf9d8b3ace68689b28c2/6892eea97716270cb910d8f5_Rectangle 34625000-p-500.png
+File Name: C:\Downloaded Web Sites\xleads.com\6892bf9d8b3ace68689b28c2\6892eea97716270cb910d8f5_Rectangle 34625000-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6892bf9d8b3ace68689b28c2/6892eea97716270cb910d8f5_Rectangle 34625000-p-800.png
+File Name: C:\Downloaded Web Sites\xleads.com\6892bf9d8b3ace68689b28c2\6892eea97716270cb910d8f5_Rectangle 34625000-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6892bf9d8b3ace68689b28c2/6892eea97716270cb910d8f5_Rectangle 34625000.png
+File Name: C:\Downloaded Web Sites\xleads.com\6892bf9d8b3ace68689b28c2\6892eea97716270cb910d8f5_Rectangle 34625000.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6892bf9d8b3ace68689b28c2/6892feefcfb77d68a93f2b75_Rectangle 34625005-p-1080.png
+File Name: C:\Downloaded Web Sites\xleads.com\6892bf9d8b3ace68689b28c2\6892feefcfb77d68a93f2b75_Rectangle 34625005-p-1080.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6892bf9d8b3ace68689b28c2/6892feefcfb77d68a93f2b75_Rectangle 34625005-p-500.png
+File Name: C:\Downloaded Web Sites\xleads.com\6892bf9d8b3ace68689b28c2\6892feefcfb77d68a93f2b75_Rectangle 34625005-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6892bf9d8b3ace68689b28c2/6892feefcfb77d68a93f2b75_Rectangle 34625005-p-800.png
+File Name: C:\Downloaded Web Sites\xleads.com\6892bf9d8b3ace68689b28c2\6892feefcfb77d68a93f2b75_Rectangle 34625005-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6892bf9d8b3ace68689b28c2/6892feefcfb77d68a93f2b75_Rectangle 34625005.png
+File Name: C:\Downloaded Web Sites\xleads.com\6892bf9d8b3ace68689b28c2\6892feefcfb77d68a93f2b75_Rectangle 34625005.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6892bf9d8b3ace68689b28c2/68931b0bf487f2960dd68854_Rectangle 34625005 (1)-p-500.png
+File Name: C:\Downloaded Web Sites\xleads.com\6892bf9d8b3ace68689b28c2\68931b0bf487f2960dd68854_Rectangle 34625005 (1)-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6892bf9d8b3ace68689b28c2/68931b0bf487f2960dd68854_Rectangle 34625005 (1)-p-800.png
+File Name: C:\Downloaded Web Sites\xleads.com\6892bf9d8b3ace68689b28c2\68931b0bf487f2960dd68854_Rectangle 34625005 (1)-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6892bf9d8b3ace68689b28c2/68931b0bf487f2960dd68854_Rectangle 34625005 (1).png
+File Name: C:\Downloaded Web Sites\xleads.com\6892bf9d8b3ace68689b28c2\68931b0bf487f2960dd68854_Rectangle 34625005 (1).png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6892bf9d8b3ace68689b28c2/6894146d666b210c9eb87505_png1 (1).png
+File Name: C:\Downloaded Web Sites\xleads.com\6892bf9d8b3ace68689b28c2\6894146d666b210c9eb87505_png1 (1).png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6892bf9d8b3ace68689b28c2/689c0e219e5500dc8d384d20_black-bg-p-1080.jpg
+File Name: C:\Downloaded Web Sites\xleads.com\6892bf9d8b3ace68689b28c2\689c0e219e5500dc8d384d20_black-bg-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/6892bf9d8b3ace68689b28c2/689c0e219e5500dc8d384d20_black-bg-p-1600.jpg
+File Name: C:\Downloaded Web Sites\xleads.com\6892bf9d8b3ace68689b28c2\689c0e219e5500dc8d384d20_black-bg-p-1600.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/6892bf9d8b3ace68689b28c2/689c0e219e5500dc8d384d20_black-bg-p-500.jpg
+File Name: C:\Downloaded Web Sites\xleads.com\6892bf9d8b3ace68689b28c2\689c0e219e5500dc8d384d20_black-bg-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/6892bf9d8b3ace68689b28c2/689c0e219e5500dc8d384d20_black-bg-p-800.jpg
+File Name: C:\Downloaded Web Sites\xleads.com\6892bf9d8b3ace68689b28c2\689c0e219e5500dc8d384d20_black-bg-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/6892bf9d8b3ace68689b28c2/689c0e219e5500dc8d384d20_black-bg.jpg
+File Name: C:\Downloaded Web Sites\xleads.com\6892bf9d8b3ace68689b28c2\689c0e219e5500dc8d384d20_black-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/6892bf9d8b3ace68689b28c2/689c0fef8d89560f73d53c4d_Screenshot 2025-08-13 000859-p-1080.png
+File Name: C:\Downloaded Web Sites\xleads.com\6892bf9d8b3ace68689b28c2\689c0fef8d89560f73d53c4d_Screenshot 2025-08-13 000859-p-1080.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6892bf9d8b3ace68689b28c2/689c0fef8d89560f73d53c4d_Screenshot 2025-08-13 000859-p-1600.png
+File Name: C:\Downloaded Web Sites\xleads.com\6892bf9d8b3ace68689b28c2\689c0fef8d89560f73d53c4d_Screenshot 2025-08-13 000859-p-1600.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6892bf9d8b3ace68689b28c2/689c0fef8d89560f73d53c4d_Screenshot 2025-08-13 000859-p-2000.png
+File Name: C:\Downloaded Web Sites\xleads.com\6892bf9d8b3ace68689b28c2\689c0fef8d89560f73d53c4d_Screenshot 2025-08-13 000859-p-2000.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6892bf9d8b3ace68689b28c2/689c0fef8d89560f73d53c4d_Screenshot 2025-08-13 000859-p-2600.png
+File Name: C:\Downloaded Web Sites\xleads.com\6892bf9d8b3ace68689b28c2\689c0fef8d89560f73d53c4d_Screenshot 2025-08-13 000859-p-2600.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6892bf9d8b3ace68689b28c2/689c0fef8d89560f73d53c4d_Screenshot 2025-08-13 000859-p-3200.png
+File Name: C:\Downloaded Web Sites\xleads.com\6892bf9d8b3ace68689b28c2\689c0fef8d89560f73d53c4d_Screenshot 2025-08-13 000859-p-3200.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6892bf9d8b3ace68689b28c2/689c0fef8d89560f73d53c4d_Screenshot 2025-08-13 000859-p-500.png
+File Name: C:\Downloaded Web Sites\xleads.com\6892bf9d8b3ace68689b28c2\689c0fef8d89560f73d53c4d_Screenshot 2025-08-13 000859-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6892bf9d8b3ace68689b28c2/689c0fef8d89560f73d53c4d_Screenshot 2025-08-13 000859-p-800.png
+File Name: C:\Downloaded Web Sites\xleads.com\6892bf9d8b3ace68689b28c2\689c0fef8d89560f73d53c4d_Screenshot 2025-08-13 000859-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6892bf9d8b3ace68689b28c2/689c0fef8d89560f73d53c4d_Screenshot 2025-08-13 000859.png
+File Name: C:\Downloaded Web Sites\xleads.com\6892bf9d8b3ace68689b28c2\689c0fef8d89560f73d53c4d_Screenshot 2025-08-13 000859.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6892bf9d8b3ace68689b28c2/689e2323cf5b2aae8992b7fb_New Project - 2025-08-14T135543.849.png
+File Name: C:\Downloaded Web Sites\xleads.com\6892bf9d8b3ace68689b28c2\689e2323cf5b2aae8992b7fb_New Project - 2025-08-14T135543.849.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6892bf9d8b3ace68689b28c2/689e23420231d069ea2a5def_New Project - 2025-08-14T135612.843.png
+File Name: C:\Downloaded Web Sites\xleads.com\6892bf9d8b3ace68689b28c2\689e23420231d069ea2a5def_New Project - 2025-08-14T135612.843.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6892bf9d8b3ace68689b28c2/css/xleads.webflow.shared.476ac3b8b.min.css
+File Name: C:\Downloaded Web Sites\xleads.com\6892bf9d8b3ace68689b28c2\css\xleads.webflow.shared.476ac3b8b.min.css
+Content Type: text/css
+
+Uri: https://cdn.prod.website-files.com/6892bf9d8b3ace68689b28c2/js/webflow.0561256d.e2b50a066aac344b.js
+File Name: C:\Downloaded Web Sites\xleads.com\6892bf9d8b3ace68689b28c2\js\webflow.0561256d.e2b50a066aac344b.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/6892bf9d8b3ace68689b28c2/js/webflow.ad0f9e52.9ebcc6efc8d001da.js
+File Name: C:\Downloaded Web Sites\xleads.com\6892bf9d8b3ace68689b28c2\js\webflow.ad0f9e52.9ebcc6efc8d001da.js
+Content Type: text/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/tinymce/4.9.11/tinymce.min.js
+File Name: C:\Downloaded Web Sites\xleads.com\ajax\libs\tinymce\4.9.11\tinymce.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\xleads.com\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6892bf9d8b3ace68689b28c2
+File Name: C:\Downloaded Web Sites\xleads.com\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\xleads.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Downloaded Web Sites\xleads.com\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Downloaded Web Sites\xleads.com\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Downloaded Web Sites\xleads.com\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\xleads.com\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\xleads.com\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\xleads.com\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Downloaded Web Sites\xleads.com\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\xleads.com\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v19/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\xleads.com\s\inter\v19\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://login.xleads.com/
+File Name: C:\Downloaded Web Sites\xleads.com\index-1.htm
+Content Type: text/html
+
+Uri: https://login.xleads.com/favicon.ico
+File Name: C:\Downloaded Web Sites\xleads.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/css/brands.css
+File Name: C:\Downloaded Web Sites\xleads.com\releases\v5.8.1\css\brands.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/css/fontawesome.css
+File Name: C:\Downloaded Web Sites\xleads.com\releases\v5.8.1\css\fontawesome.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/css/regular.css
+File Name: C:\Downloaded Web Sites\xleads.com\releases\v5.8.1\css\regular.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/css/solid.css
+File Name: C:\Downloaded Web Sites\xleads.com\releases\v5.8.1\css\solid.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\xleads.com\releases\v5.8.1\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\xleads.com\releases\v5.8.1\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\xleads.com\releases\v5.8.1\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\xleads.com\releases\v5.8.1\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\xleads.com\releases\v5.8.1\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\xleads.com\releases\v5.8.1\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\xleads.com\releases\v5.8.1\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\xleads.com\releases\v5.8.1\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\xleads.com\releases\v5.8.1\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\xleads.com\releases\v5.8.1\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\xleads.com\releases\v5.8.1\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\xleads.com\releases\v5.8.1\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\xleads.com\releases\v5.8.1\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\xleads.com\releases\v5.8.1\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\xleads.com\releases\v5.8.1\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\xleads.com\releases\v5.8.1\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\xleads.com\releases\v5.8.1\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\xleads.com\releases\v5.8.1\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://xleads.com/
+File Name: C:\Downloaded Web Sites\xleads.com\index.htm
+Content Type: text/html
+
+Uri: https://xleads.com/help-center
+File Name: C:\Downloaded Web Sites\xleads.com\help-center.html
+Content Type: text/html
+
+Uri: https://xleads.com/privacypolicy
+File Name: C:\Downloaded Web Sites\xleads.com\privacypolicy.html
+Content Type: text/html
+
+Uri: https://xleads.com/refunds
+File Name: C:\Downloaded Web Sites\xleads.com\refunds.html
+Content Type: text/html
+
+Uri: https://xleads.com/terms-of-service
+File Name: C:\Downloaded Web Sites\xleads.com\terms-of-service.html
+Content Type: text/html
+
